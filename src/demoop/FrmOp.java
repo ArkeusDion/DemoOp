@@ -90,7 +90,7 @@ public class FrmOp extends javax.swing.JFrame {
         // TODO add your handling code here:
         int num1=Integer.parseInt(txtA.getText());
         int num2=Integer.parseInt(txtB.getText());
-        JOptionPane.showMessageDialog(this, "La suma es: " + (num1+num2));
+        JOptionPane.showMessageDialog(this, "La sumatoria de los numeros A y B es: " + (num1+num2));
     }//GEN-LAST:event_btnSumarActionPerformed
 
     /**
